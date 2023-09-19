@@ -28,13 +28,13 @@ Para executar o Sistema de Gerenciamento Jurídico, você precisará ter os segu
 Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-gerenciamento-juridico.git
+git clone https://github.com/PedroCastro-333/SistemaJuridico.git
 ```
 
 Navegue até o diretório do projeto:
 
 ```bash
-cd sistema-gerenciamento-juridico
+cd SistemaJuridico
 ```
 
 Instale as dependências do projeto:
@@ -55,7 +55,6 @@ MONGODB_URI=URL_DO_MONGODB
 PORT=3333
 ```
 
-Certifique-se de substituir `URL_DO_MONGODB` pela URL do seu servidor MongoDB.
 
 ## 3. Executando a Aplicação
 
