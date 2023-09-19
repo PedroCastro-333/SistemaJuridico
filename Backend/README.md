@@ -101,11 +101,11 @@ A API do Sistema de Gerenciamento Jurídico fornece endpoints para gerenciar adv
 
 ### 5.2 Clientes
 
-- `POST /clientes`: Obtém uma lista de clientes com base em filtros.
-- `GET /clientes/:id`: Obtém um cliente específico por ID.
-- `POST /clientes/novo`: Cria um novo cliente.
-- `DELETE /clientes/:id`: Exclui um cliente com base no ID.
-- `PUT /clientes/:id`: Atualiza um cliente com base no ID.
+- `POST /usuarios`: Obtém uma lista de clientes com base em filtros.
+- `GET /usuarios/:id`: Obtém um cliente específico por ID.
+- `POST /usuarios/novo`: Cria um novo cliente.
+- `DELETE /usuarios/:id`: Exclui um cliente com base no ID.
+- `PUT /usuarios/:id`: Atualiza um cliente com base no ID.
 
 ### 5.3 Processos
 
