@@ -153,13 +153,13 @@ $ npm -v
 ```bash
 # Clone este repositório
 # HTTPS
-$ git clone url
+$ git clone https://github.com/PedroCastro-333/SistemaJuridico.git
 
 # SSH
-$ git clone url
+$ git clone git@github.com:PedroCastro-333/SistemaJuridico.git
 
 # CLI
-$ gh repo clone url
+$ gh repo clone gh repo clone PedroCastro-333/SistemaJuridico
 
 # Acesse a pasta do frontend no terminal
 $ cd ./escritorio/frontend
@@ -180,13 +180,13 @@ $ npm run start
 ```bash
 # Clone este repositório
 # HTTPS
-$ git clone url
+$ git clone https://github.com/PedroCastro-333/SistemaJuridico.git
 
 # SSH
-$ git clone url
+$ git clone git@github.com:PedroCastro-333/SistemaJuridico.git
 
 # CLI
-$ gh repo clone url
+$ gh repo clone gh repo clone PedroCastro-333/SistemaJuridico
 
 # Acesse a pasta do backend no terminal
 $ cd ./escritorio/backend
